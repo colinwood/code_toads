@@ -12,6 +12,6 @@ Trip to Germany - End project for all those in CSIS 2430. Use algorithms to dete
 
 RPG - 
 
-Collin's CRM - 
+Colin's CRM - A real estate CRM for managing prospective clients, documentation, event tracking (inspection deadlines, finance deadlines, etc...), automatic email marketing, The list could go on with features. 
 
 Quote Book - 
